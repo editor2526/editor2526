@@ -38,6 +38,16 @@ namespace DigitalClockApp
             // Update the label
             label1.Text = time;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
         
